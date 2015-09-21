@@ -1,0 +1,11 @@
+C:\projects\Codeplex\MDSUtilities\QueueProcessor\QueueProcessor\bin\Debug\QueueProcessor.exe
+C:\projects\Codeplex\MDSUtilities\QueueProcessor\QueueProcessor\bin\Debug\QueueProcessor.pdb
+C:\projects\Codeplex\MDSUtilities\QueueProcessor\QueueProcessor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\projects\Codeplex\MDSUtilities\QueueProcessor\QueueProcessor\obj\x86\Debug\QueueProcessor.exe
+C:\projects\Codeplex\MDSUtilities\QueueProcessor\QueueProcessor\obj\x86\Debug\QueueProcessor.pdb
+C:\Users\Alessandro.Holanda.GRUPO_ALTAMIRA\Documents\Visual Studio 2015\Projects\SQL Service Broker Message Processor Service Sample\C#\QueueProcessor\bin\Debug\QueueProcessor.exe
+C:\Users\Alessandro.Holanda.GRUPO_ALTAMIRA\Documents\Visual Studio 2015\Projects\SQL Service Broker Message Processor Service Sample\C#\QueueProcessor\bin\Debug\QueueProcessor.pdb
+C:\Users\Alessandro.Holanda.GRUPO_ALTAMIRA\Documents\Visual Studio 2015\Projects\SQL Service Broker Message Processor Service Sample\C#\QueueProcessor\obj\x86\Debug\QueueProcessor.csprojResolveAssemblyReference.cache
+C:\Users\Alessandro.Holanda.GRUPO_ALTAMIRA\Documents\Visual Studio 2015\Projects\SQL Service Broker Message Processor Service Sample\C#\QueueProcessor\obj\x86\Debug\QueueProcessor.exe
+C:\Users\Alessandro.Holanda.GRUPO_ALTAMIRA\Documents\Visual Studio 2015\Projects\SQL Service Broker Message Processor Service Sample\C#\QueueProcessor\obj\x86\Debug\QueueProcessor.pdb
+C:\Users\Alessandro.Holanda.GRUPO_ALTAMIRA\Documents\Visual Studio 2015\Projects\SQL Service Broker Message Processor Service Sample\C#\QueueProcessor\bin\Debug\QueueProcessor.exe.config
